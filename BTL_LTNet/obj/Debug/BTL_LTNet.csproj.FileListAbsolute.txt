@@ -1,0 +1,10 @@
+C:\Users\thu hien\Downloads\BTL_LTNET_QLDV\BTL_LTNet\bin\Debug\BTL_LTNet.exe.config
+C:\Users\thu hien\Downloads\BTL_LTNET_QLDV\BTL_LTNet\bin\Debug\BTL_LTNet.exe
+C:\Users\thu hien\Downloads\BTL_LTNET_QLDV\BTL_LTNet\bin\Debug\BTL_LTNet.pdb
+C:\Users\thu hien\Downloads\BTL_LTNET_QLDV\BTL_LTNet\obj\Debug\BTL_LTNet.csproj.AssemblyReference.cache
+C:\Users\thu hien\Downloads\BTL_LTNET_QLDV\BTL_LTNet\obj\Debug\BTL_LTNet.Properties.Resources.resources
+C:\Users\thu hien\Downloads\BTL_LTNET_QLDV\BTL_LTNet\obj\Debug\BTL_LTNet.csproj.GenerateResource.cache
+C:\Users\thu hien\Downloads\BTL_LTNET_QLDV\BTL_LTNet\obj\Debug\BTL_LTNet.csproj.CoreCompileInputs.cache
+C:\Users\thu hien\Downloads\BTL_LTNET_QLDV\BTL_LTNet\obj\Debug\BTL_LTNet.exe
+C:\Users\thu hien\Downloads\BTL_LTNET_QLDV\BTL_LTNet\obj\Debug\BTL_LTNet.pdb
+C:\Users\thu hien\Downloads\BTL_LTNET_QLDV\BTL_LTNet\obj\Debug\BTL_LTNet.Form1.resources
